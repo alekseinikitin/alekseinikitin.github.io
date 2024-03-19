@@ -3,5 +3,5 @@
 // к примеру, началом 20 столетия был 1901 год.
 let a = 1901
 console.log(Math.ceil(a/100));
-alert( Math.ceil(a/100) + 'Столетие' );
+alert( Math.ceil(a/100) + ('Столетие') );
 
