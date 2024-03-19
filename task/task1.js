@@ -10,4 +10,4 @@ a = b;
 b = temp;
 
 console.log (a,b)
-alert (('A = ') + a; ('B = ') + b) 
+alert (a, b) 
